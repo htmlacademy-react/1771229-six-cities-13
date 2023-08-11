@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Gleb Limanskiy](https://up.htmlacademy.ru/react/13/user/1771229).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Глущенко](https://htmlacademy.ru/profile/id305355).
 
 ---
 
